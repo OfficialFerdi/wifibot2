@@ -1,0 +1,19 @@
+{
+  "name": "wifibot2",
+  "version": "1.0.0",
+  "description": "wifi is ons leven",
+  "main": "index.js",
+  "scripts": {
+    "test": "ticket",
+    "start": "nodemon"
+  },
+  "author": "Ferdi",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "snekfetch": "^4.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
